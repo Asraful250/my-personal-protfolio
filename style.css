@@ -5,6 +5,13 @@ body{
 span{
     color: darkturquoise;
 }
+footer{
+    font-family: cursive;
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 .head{
     font-size: 60px;
     font-weight: 900;
@@ -22,6 +29,9 @@ span{
 .web-img{
     width: 50px;
     padding-left: 100px;
+}
+.web-pic{
+    padding-right: 120px;
 }
 .web{
     width: 80%;
@@ -58,7 +68,12 @@ span{
     padding-top: 50px;
 }
 .development{
-   padding-left: 345px;
+   padding-left: 565px;
+   padding-top: 50px;
+}
+.development-1{
+    padding-left: 115px;
+    padding-top: 50px;
 }
 
 #my{
@@ -89,4 +104,7 @@ span{
     font-size: 40px;
     font-weight: 800px;
     margin: -5px;
+}
+#foot{
+    color: blanchedalmond;
 }
