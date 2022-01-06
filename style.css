@@ -63,9 +63,16 @@ footer{
     padding-left: 80px;
     padding-right: 80px;
 }
+.box{
+    padding-left: 645px;
+    padding-right: 400px;
+    padding-bottom: 50px;
+
+}
 .develop{
     display: flex;
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 .development{
    padding-left: 565px;
@@ -74,6 +81,12 @@ footer{
 .development-1{
     padding-left: 115px;
     padding-top: 50px;
+}
+.project-gallery h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    margin: 0%;
 }
 
 #my{
