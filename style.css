@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+span{
+    color: darkturquoise;
+}
+.head{
+    font-size: 60px;
+    font-weight: 900;
+    margin: -5px;
+    border-left: 5px solid sandybrown;
+    font-family: Verdana;
+    
+}
+.half-width{
+    width: 80%;
+    margin: 120px 0px 120px 120px;
+    padding-bottom: 20px;
+    
+}
+.web-img{
+    width: 50px;
+    padding-left: 100px;
+}
+.web{
+    width: 80%;
+}
+.half img{
+    width: 60%;
+    margin-left: 200px;
+}
+
+.mission{
+    display: flex;
+    padding-top: 50px;
+}
+.link-button{
+    text-decoration: none;
+    color: cornsilk;
+    font-weight: 600;
+    background-image: linear-gradient(orange, salmon);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.year{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+.three-box{
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.develop{
+    display: flex;
+    padding-top: 50px;
+}
+.development{
+   padding-left: 345px;
+}
+
+#my{
+    color: slategrey;
+}
+#box-1{
+    background-color: silver;
+    margin: 35px;
+    border-radius: 10px;
+    width: 400px;
+}
+#box-2{
+    background-color: bisque;
+    margin: 35px;
+    border-radius: 10px;
+    width: 400px;
+}
+#box-3{
+    background-color: wheat;
+    margin: 35px;
+    border-radius: 10px;
+    width: 400px;
+}
+#box-text{
+    padding-left: 10px;
+}
+#dev{
+    font-size: 40px;
+    font-weight: 800px;
+    margin: -5px;
+}
